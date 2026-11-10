@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/desktop-workspace.jpg"
+    src="./download(2).jpeg"
     alt="Anushka's Developer Workspace"
     width="100%"
   />
