@@ -1,139 +1,286 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:251044,100:8B5CF6&height=200&section=header&text=ANUSHKA%20VERMA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=14" />
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1D,35:251044,75:6845A0,100:C4A7F7&height=180&section=header&text=ANUSHKA%20VERMA&fontSize=48&fontColor=F8F4FF&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20CSE%20STUDENT%20%2F%2F%20AI%20EXPLORER&descSize=12&descAlignY=60&animation=fadeIn" />
 
-### Building ideas into reality, one commit at a time.
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=B794F6)](https://github.com/vermaanv01-boop)
+### `~/workspace/anushka`
 
-</div>
+**Building ideas into reality, one commit at a time.**
 
----
+<sub>FULL-STACK DEVELOPMENT · ARTIFICIAL INTELLIGENCE · PROBLEM SOLVING</sub>
 
-## `01` — About Me
+<br>
 
-```yaml
-name: Anushka Verma
-role: Computer Science Student
-location: India
-
-interests:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Building Real World Products
-  - Problem Solving
-
-currently_learning:
-  - Python
-  - AI / ML
-  - Generative AI
-  - Data Structures & Algorithms
-
-mindset: "Build. Experiment. Improve. Repeat."
-```
-
-## `02` — Tech Arsenal
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python&theme=dark" />
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,gsap&theme=dark" />
-
-**BACKEND & DATABASE**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" />
+<a href="https://github.com/vermaanv01-boop">
+  <img src="https://img.shields.io/badge/OPEN%20GITHUB-171326?style=for-the-badge&logo=github&logoColor=C4A7F7" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-BUILDING-251044?style=for-the-badge&logo=visualstudiocode&logoColor=E8B8D0" />
 
 </div>
 
-## `03` — Featured Projects
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="62%" valign="top">
 
-### 🏥 SehatSetu
+### ◈ ABOUT.ME
 
-A healthcare bridge connecting rural primary health centres with urban hospitals.
+```yaml
+user: Anushka Verma
+role: Computer Science Student
+location: Bhopal, India
 
-**Focus:** Healthcare · Accessibility · Multilingual Support
+focus:
+  - Full-Stack Development
+  - AI / ML
+  - Real-World Problem Solving
 
-</td>
-<td width="50%">
+currently:
+  - Exploring Generative AI
+  - Practicing DSA
+  - Building scalable applications
 
-### 🌆 InfraNaut AI
-
-A smart-city digital twin exploring traffic, waste, parking, weather and energy.
-
-**Focus:** AI · Smart Cities · Sustainability
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧬 VITAWEAVE
-
-An AI-assisted healthcare knowledge platform with multilingual information access.
-
-**Focus:** AI · RAG · Healthcare
+philosophy: "Build. Experiment. Improve. Repeat."
+```
 
 </td>
-<td width="50%">
+<td width="38%" valign="top">
 
-### 🚀 More in Progress
+### ◈ SYSTEM.INFO
 
-Experimenting with new technologies, building applications and exploring ideas.
+<br>
 
-**Focus:** Development · Innovation
+`USER`  
+**anushka**
+
+`ENVIRONMENT`  
+B.Tech / CSE
+
+`INTERESTS`  
+Web · AI · Innovation
+
+`MODE`  
+Learning & Building
+
+`COFFEE`  
+Always welcome ☕
+
+<br>
 
 </td>
 </tr>
 </table>
 
-## `04` — GitHub Analytics
+<br>
 
-<div align="center">
+## `01` &nbsp; TECH ARSENAL
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vermaanv01-boop&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=B794F6&icon_color=8B5CF6&text_color=E9E3F5" />
+<sub>A collection of technologies I use, build with, and continue exploring.</sub>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaanv01-boop&layout=compact&hide_border=true&bg_color=0D0B14&title_color=B794F6&text_color=E9E3F5" />
+<table>
+<tr>
+<td width="25%" align="center" valign="middle">
 
-</div>
+**LANGUAGES**
 
-## `05` — Currently Exploring
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+
+**FRONTEND**
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,gsap&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+
+**BACKEND & DATABASE**
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+
+**TOOLS**
+
+</td>
+<td valign="middle">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `02` &nbsp; PROJECTS.EXE
+
+<sub>Selected builds, experiments, and problem-solving projects.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-HEALTHCARE-251044?style=flat-square" />
+
+### 🏥 SehatSetu
+
+A digital healthcare bridge connecting rural primary health centres with urban hospitals, designed for low-connectivity environments.
+
+**Built around**
+- Multilingual patient guidance
+- Healthcare accessibility
+- Rural-to-urban patient connectivity
+
+<img src="https://img.shields.io/badge/SMART%20SAMADHAN%202026-ROUND%202%20FINALIST-C4A7F7?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-SMART%20CITY-251044?style=flat-square" />
+
+### 🌆 InfraNaut AI
+
+A smart-city digital twin bringing together urban infrastructure insights and sustainability-focused monitoring.
+
+**Built around**
+- Traffic and parking
+- Waste and energy monitoring
+- Weather and urban insights
+
+<img src="https://img.shields.io/badge/TECHHACK%202.0-2026-C4A7F7?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/03-HEALTH%20%2B%20AI-251044?style=flat-square" />
+
+### 🧬 VITAWEAVE
+
+An AI-assisted healthcare knowledge platform focused on multilingual information access and retrieval.
+
+**Built around**
+- Retrieval-Augmented Generation
+- Multilingual knowledge access
+- Healthcare information support
+
+<img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON-2026%20ROUND%203-C4A7F7?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/04-EXPERIMENTS-251044?style=flat-square" />
+
+### 🚀 What's Next?
+
+Exploring new technologies, experimenting with ideas, and developing projects that solve actual problems.
+
+**Current interests**
+- Generative AI
+- Full-stack architecture
+- Data Structures & Algorithms
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-E8B8D0?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `03` &nbsp; CURRENT.WORKSPACE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Learning
 
 ```text
-[ LEARNING ]  Python & AI / ML
-[ BUILDING ]  Full-Stack Applications
-[ PRACTICING ] Data Structures & Algorithms
-[ EXPLORING ] Generative AI & RAG
+[01] Python
+[02] Artificial Intelligence
+[03] Machine Learning
+[04] Generative AI
+[05] RAG Systems
 ```
 
-## `06` — Let's Connect
+</td>
+<td width="50%" valign="top">
+
+### 📝 Practicing
+
+```text
+[01] Data Structures
+[02] Algorithms
+[03] Problem Solving
+[04] Full-Stack Development
+[05] System Design Basics
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `04` &nbsp; GITHUB.ACTIVITY
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=B794F6)](https://github.com/vermaanv01-boop)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaanv01-boop&bg_color=100B1D&color=C4A7F7&line=8B5CF6&point=E8B8D0&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-**Open to collaborations, hackathons and interesting projects.**
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaanv01-boop&layout=compact&hide_border=true&bg_color=100B1D&title_color=C4A7F7&text_color=F2EDF8" />
 
 </div>
 
----
+<br>
+
+## `05` &nbsp; CONNECT.SYS
 
 <div align="center">
 
-*Build with curiosity. Ship with purpose.*
+**Have an interesting idea? Let's build something meaningful.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:251044,100:0D0B14&height=100&section=footer" />
+<br>
+
+<a href="https://github.com/vermaanv01-boop">
+<img src="https://img.shields.io/badge/GITHUB-171326?style=for-the-badge&logo=github&logoColor=C4A7F7" />
+</a>
+
+<br><br>
+
+<sub>OPEN TO COLLABORATIONS · HACKATHONS · INTERESTING PROJECTS</sub>
+
+<br><br>
+
+*Somewhere between curiosity and code, ideas become reality.*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A7F7,40:6845A0,75:251044,100:100B1D&height=110&section=footer" />
 
 </div>
