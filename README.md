@@ -1,9 +1,10 @@
 <div align="center">
   <img
-    src="./download(2).jpeg"
+    src="./assets/desktop-workspace.jpeg"
     alt="Anushka's Developer Workspace"
     width="100%"
   />
+</div>
 </div>
 
 <div align="center">
