@@ -1,38 +1,139 @@
-<div align="center">Hey, I'm Anushka Verma 👋
-CSE Student · Full-Stack Developer · Builder
-I enjoy turning ideas into useful products — from full-stack platforms to AI-powered solutions.
-Currently exploring AI/ML while sharpening my skills in software engineering.
-</div>👩‍💻 About Me
-- 🎓 Computer Science & Engineering student
-- 🌱 Currently learning: Python, AI/ML, and system design fundamentals
-- 💻 Interested in: Full-Stack Development, AI-powered applications, and product building
-- 🛠️ I like building practical projects that solve real problems
-- ⚡ Motto: Build. Break. Learn. Repeat.
-🧰 Tech Stack
-Languages
-C C++ Java JavaScript Python (Basics)
-
-Frontend
-HTML CSS React Next.js GSAP
-
-Backend & Database
-Node.js Express.js MongoDB Mongoose Supabase
-
-Tools & Platforms
-Git GitHub Postman Figma Canva
-🚀 Featured Projects
-SehatSetu
-A low-connectivity patient bridge connecting rural primary health centres with urban hospitals, with multilingual support and patient guidance.
-InfraNaut AI
-A smart-city digital twin concept for exploring urban systems such as traffic, waste, parking, weather, and energy.
-VITAWEAVE
-An AI-assisted healthcare knowledge platform focused on making medical information more accessible through multilingual interactions and retrieval-augmented generation.
-Explore the repositories pinned on my profile for source code, implementation details, and updates.
-
-📊 GitHub Activity
 <div align="center">
-</div>🤝 Let's Connect
-I'm open to meaningful collaborations, hackathons, and opportunities to build useful things.
-- GitHub: @vermaanv01-boop
-<div align="center">“Ideas are easy. Building them is the fun part.”
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B14,50:251044,100:8B5CF6&height=200&section=header&text=ANUSHKA%20VERMA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=14" />
+
+### Building ideas into reality, one commit at a time.
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=B794F6)](https://github.com/vermaanv01-boop)
+
+</div>
+
+---
+
+## `01` — About Me
+
+```yaml
+name: Anushka Verma
+role: Computer Science Student
+location: India
+
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Building Real World Products
+  - Problem Solving
+
+currently_learning:
+  - Python
+  - AI / ML
+  - Generative AI
+  - Data Structures & Algorithms
+
+mindset: "Build. Experiment. Improve. Repeat."
+```
+
+## `02` — Tech Arsenal
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python&theme=dark" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,gsap&theme=dark" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" />
+
+</div>
+
+## `03` — Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 SehatSetu
+
+A healthcare bridge connecting rural primary health centres with urban hospitals.
+
+**Focus:** Healthcare · Accessibility · Multilingual Support
+
+</td>
+<td width="50%">
+
+### 🌆 InfraNaut AI
+
+A smart-city digital twin exploring traffic, waste, parking, weather and energy.
+
+**Focus:** AI · Smart Cities · Sustainability
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 VITAWEAVE
+
+An AI-assisted healthcare knowledge platform with multilingual information access.
+
+**Focus:** AI · RAG · Healthcare
+
+</td>
+<td width="50%">
+
+### 🚀 More in Progress
+
+Experimenting with new technologies, building applications and exploring ideas.
+
+**Focus:** Development · Innovation
+
+</td>
+</tr>
+</table>
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vermaanv01-boop&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=B794F6&icon_color=8B5CF6&text_color=E9E3F5" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaanv01-boop&layout=compact&hide_border=true&bg_color=0D0B14&title_color=B794F6&text_color=E9E3F5" />
+
+</div>
+
+## `05` — Currently Exploring
+
+```text
+[ LEARNING ]  Python & AI / ML
+[ BUILDING ]  Full-Stack Applications
+[ PRACTICING ] Data Structures & Algorithms
+[ EXPLORING ] Generative AI & RAG
+```
+
+## `06` — Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=B794F6)](https://github.com/vermaanv01-boop)
+
+**Open to collaborations, hackathons and interesting projects.**
+
+</div>
+
+---
+
+<div align="center">
+
+*Build with curiosity. Ship with purpose.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:251044,100:0D0B14&height=100&section=footer" />
+
 </div>
