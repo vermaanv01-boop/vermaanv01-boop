@@ -1,13 +1,12 @@
 <div align="center">
-  <img
-    src="./assets/desktop-workspace.jpeg"
-    alt="Anushka's Developer Workspace"
-    width="100%"
-  />
-</div>
-</div>
 
-<div align="center">
+<img
+  src="./assets/desktop-workspace.jpeg"
+  alt="Anushka's Developer Workspace"
+  width="100%"
+/>
+
+<br/>
 
 <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1D,35:251044,75:6845A0,100:C4A7F7&height=180&section=header&text=ANUSHKA%20VERMA&fontSize=48&fontColor=F8F4FF&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20CSE%20STUDENT%20%2F%2F%20AI%20EXPLORER&descSize=12&descAlignY=60&animation=fadeIn" />
 
@@ -62,19 +61,24 @@ philosophy: "Build. Experiment. Improve. Repeat."
 
 <br>
 
-`USER`  
+`USER`
+
 **anushka**
 
-`ENVIRONMENT`  
+`ENVIRONMENT`
+
 B.Tech / CSE
 
-`INTERESTS`  
+`INTERESTS`
+
 Web · AI · Innovation
 
-`MODE`  
+`MODE`
+
 Learning & Building
 
-`COFFEE`  
+`COFFEE`
+
 Always welcome ☕
 
 <br>
@@ -102,6 +106,7 @@ Always welcome ☕
 
 </td>
 </tr>
+
 <tr>
 <td align="center" valign="middle">
 
@@ -114,6 +119,7 @@ Always welcome ☕
 
 </td>
 </tr>
+
 <tr>
 <td align="center" valign="middle">
 
@@ -126,6 +132,7 @@ Always welcome ☕
 
 </td>
 </tr>
+
 <tr>
 <td align="center" valign="middle">
 
@@ -164,6 +171,7 @@ A digital healthcare bridge connecting rural primary health centres with urban h
 <img src="https://img.shields.io/badge/SMART%20SAMADHAN%202026-ROUND%202%20FINALIST-C4A7F7?style=flat-square" />
 
 </td>
+
 <td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/02-SMART%20CITY-251044?style=flat-square" />
@@ -181,6 +189,7 @@ A smart-city digital twin bringing together urban infrastructure insights and su
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -198,20 +207,22 @@ An AI-assisted healthcare knowledge platform focused on multilingual information
 <img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON-2026%20ROUND%203-C4A7F7?style=flat-square" />
 
 </td>
+
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04-EXPERIMENTS-251044?style=flat-square" />
+<img src="https://img.shields.io/badge/04-CAREER%20TECH-251044?style=flat-square" />
 
-### 🚀 What's Next?
+### 💼 InternTrack AI
 
-Exploring new technologies, experimenting with ideas, and developing projects that solve actual problems.
+A full-stack job and internship tracking platform designed to manage applications and streamline interview preparation.
 
-**Current interests**
-- Generative AI
-- Full-stack architecture
-- Data Structures & Algorithms
+**Built around**
+- Job and internship application tracking
+- Resume management and job matching
+- Interview preparation
+- Dashboard analytics and progress tracking
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-E8B8D0?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-E8B8D0?style=flat-square" />
 
 </td>
 </tr>
@@ -236,6 +247,7 @@ Exploring new technologies, experimenting with ideas, and developing projects th
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📝 Practicing
@@ -260,7 +272,7 @@ Exploring new technologies, experimenting with ideas, and developing projects th
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermaanv01-boop&bg_color=100B1D&color=C4A7F7&line=8B5CF6&point=E8B8D0&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaanv01-boop&layout=compact&hide_border=true&bg_color=100B1D&title_color=C4A7F7&text_color=F2EDF8" />
 
@@ -277,7 +289,7 @@ Exploring new technologies, experimenting with ideas, and developing projects th
 <br>
 
 <a href="https://github.com/vermaanv01-boop">
-<img src="https://img.shields.io/badge/GITHUB-171326?style=for-the-badge&logo=github&logoColor=C4A7F7" />
+  <img src="https://img.shields.io/badge/GITHUB-171326?style=for-the-badge&logo=github&logoColor=C4A7F7" />
 </a>
 
 <br><br>
