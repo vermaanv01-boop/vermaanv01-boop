@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/desktop-workspace.jpeg"
+  src="./assets/Anushka Verma_ Cosmic Coding Dreams.png"
   alt="Anushka's Developer Workspace"
   width="100%"
 />
