@@ -30,58 +30,44 @@
 
 <br>
 
+## `01` &nbsp; INTRODUCTION
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### ◈ ABOUT.ME
+### Hey, I'm Anushka! 👋
 
-```yaml
-user: Anushka Verma
-role: Computer Science Student
-location: Bhopal, India
+I'm a Computer Science student and aspiring full-stack developer who enjoys turning ideas into functional, meaningful digital products.
 
-focus:
-  - Full-Stack Development
-  - AI / ML
-  - Real-World Problem Solving
+I work across frontend and backend development, explore emerging AI technologies, and enjoy solving problems through code. I like experimenting with new tools, building practical applications, and continuously improving my technical skills.
 
-currently:
-  - Exploring Generative AI
-  - Practicing DSA
-  - Building scalable applications
+I'm particularly interested in **Full-Stack Development, Artificial Intelligence, Generative AI, and Data Structures & Algorithms.**
 
-philosophy: "Build. Experiment. Improve. Repeat."
-```
+Currently learning, building, experimenting, and finding new ways to turn curiosity into code.
 
 </td>
-<td width="38%" valign="top">
+<td width="35%" valign="top">
 
-### ◈ SYSTEM.INFO
+### ◈ QUICK.INFO
 
-<br>
+**NAME**  
+Anushka Verma
 
-`USER`
+**ROLE**  
+CSE Student
 
-**anushka**
+**LOCATION**  
+Bhopal, India
 
-`ENVIRONMENT`
+**FOCUS**  
+Web Development · AI
 
-B.Tech / CSE
+**MINDSET**  
+Always Learning
 
-`INTERESTS`
-
-Web · AI · Innovation
-
-`MODE`
-
-Learning & Building
-
-`COFFEE`
-
-Always welcome ☕
-
-<br>
+**PHILOSOPHY**  
+Build. Experiment. Improve. Repeat.
 
 </td>
 </tr>
@@ -89,7 +75,7 @@ Always welcome ☕
 
 <br>
 
-## `01` &nbsp; TECH ARSENAL
+## `02` &nbsp; TECH ARSENAL
 
 <sub>A collection of technologies I use, build with, and continue exploring.</sub>
 
@@ -149,124 +135,7 @@ Always welcome ☕
 
 <br>
 
-## `02` &nbsp; PROJECTS.EXE
-
-<sub>Selected builds, experiments, and problem-solving projects.</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/01-HEALTHCARE-251044?style=flat-square" />
-
-### 🏥 SehatSetu
-
-A digital healthcare bridge connecting rural primary health centres with urban hospitals, designed for low-connectivity environments.
-
-**Built around**
-- Multilingual patient guidance
-- Healthcare accessibility
-- Rural-to-urban patient connectivity
-
-<img src="https://img.shields.io/badge/SMART%20SAMADHAN%202026-ROUND%202%20FINALIST-C4A7F7?style=flat-square" />
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/02-SMART%20CITY-251044?style=flat-square" />
-
-### 🌆 InfraNaut AI
-
-A smart-city digital twin bringing together urban infrastructure insights and sustainability-focused monitoring.
-
-**Built around**
-- Traffic and parking
-- Waste and energy monitoring
-- Weather and urban insights
-
-<img src="https://img.shields.io/badge/TECHHACK%202.0-2026-C4A7F7?style=flat-square" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/03-HEALTH%20%2B%20AI-251044?style=flat-square" />
-
-### 🧬 VITAWEAVE
-
-An AI-assisted healthcare knowledge platform focused on multilingual information access and retrieval.
-
-**Built around**
-- Retrieval-Augmented Generation
-- Multilingual knowledge access
-- Healthcare information support
-
-<img src="https://img.shields.io/badge/SMART%20INDIA%20HACKATHON-2026%20ROUND%203-C4A7F7?style=flat-square" />
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/04-CAREER%20TECH-251044?style=flat-square" />
-
-### 💼 InternTrack AI
-
-A full-stack job and internship tracking platform designed to manage applications and streamline interview preparation.
-
-**Built around**
-- Job and internship application tracking
-- Resume management and job matching
-- Interview preparation
-- Dashboard analytics and progress tracking
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-E8B8D0?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `03` &nbsp; CURRENT.WORKSPACE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Learning
-
-```text
-[01] Python
-[02] Artificial Intelligence
-[03] Machine Learning
-[04] Generative AI
-[05] RAG Systems
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📝 Practicing
-
-```text
-[01] Data Structures
-[02] Algorithms
-[03] Problem Solving
-[04] Full-Stack Development
-[05] System Design Basics
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `04` &nbsp; GITHUB.ACTIVITY
+## `03` &nbsp; GITHUB.ACTIVITY
 
 <div align="center">
 
@@ -280,11 +149,11 @@ A full-stack job and internship tracking platform designed to manage application
 
 <br>
 
-## `05` &nbsp; CONNECT.SYS
+## `04` &nbsp; CONNECT.SYS
 
 <div align="center">
 
-**Have an interesting idea? Let's build something meaningful.**
+### Have an interesting idea? Let's build something meaningful.
 
 <br>
 
