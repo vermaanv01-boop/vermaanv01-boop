@@ -6,11 +6,7 @@
   width="100%"
 />
 
-<br/>
 
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=0:100B1D,35:251044,75:6845A0,100:C4A7F7&height=180&section=header&text=ANUSHKA%20VERMA&fontSize=48&fontColor=F8F4FF&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20CSE%20STUDENT%20%2F%2F%20AI%20EXPLORER&descSize=12&descAlignY=60&animation=fadeIn" />
-
-<br>
 
 ### `~/workspace/anushka`
 
